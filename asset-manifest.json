@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accountants_React_TS/static/css/main.98ec47ca.css",
+    "main.js": "/accountants_React_TS/static/js/main.09483768.js",
+    "index.html": "/accountants_React_TS/index.html",
+    "main.98ec47ca.css.map": "/accountants_React_TS/static/css/main.98ec47ca.css.map",
+    "main.09483768.js.map": "/accountants_React_TS/static/js/main.09483768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.09483768.js"
+  ]
+}
